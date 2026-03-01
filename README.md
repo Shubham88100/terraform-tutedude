@@ -14,6 +14,7 @@ Access:
 
 http://<EC2_Public_IP>:3000
 http://<EC2_Public_IP>:5000
+
 📌 Part 2: Separate EC2 Deployment
 
 Flask and Express deployed on two different EC2 instances.
