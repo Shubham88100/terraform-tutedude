@@ -42,7 +42,9 @@ Application Load Balancer routes traffic:
 ⚙ How to Deploy
 
 terraform init
+
 terraform plan
+
 terraform apply
 
 To destroy infrastructure:
