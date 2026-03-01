@@ -40,6 +40,7 @@ Application Load Balancer routes traffic:
 /api/* → Flask
 
 ⚙ How to Deploy
+
 terraform init
 terraform plan
 terraform apply
@@ -47,6 +48,7 @@ terraform apply
 To destroy infrastructure:
 
 terraform destroy
+
 🛠 Technologies Used
 
 AWS (EC2, VPC, ECR, ECS, ALB)
@@ -66,4 +68,5 @@ Express
 Always run terraform destroy after testing to avoid charges.
 
 👨‍💻 Created by Shubham
+
 DevOps | AWS | Terraform
